@@ -1,0 +1,4 @@
+name: floodgate
+main: com.loohp.floodgatelimbo.FloodgateLimbo
+version: 1.0
+author: LOOHP
