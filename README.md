@@ -4,6 +4,9 @@ Compatibility for floodgate's send data proxy config option
 ## Limbo
 https://github.com/LOOHP/Limbo/
 
+## Downloads
+- [Jenkins](https://ci.loohpjames.com/job/Floodgate-Limbo/)
+
 ## Installation
 1. Install Floodgate-Limbo on the your Limbo server
 2. Enable Bungeecord mode in your `server.properties`
