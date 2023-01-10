@@ -1,6 +1,8 @@
 # floodgate-limbo
 Compatibility for floodgate's send data proxy config option
 
+**Requires at least Limbo version 0.7.2-ALPHA**
+
 ## Limbo
 https://github.com/LOOHP/Limbo/
 
