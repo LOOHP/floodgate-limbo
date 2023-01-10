@@ -56,7 +56,6 @@ public class FloodgateLimbo extends LimboPlugin implements Listener {
 
     @EventHandler
     public void onConnection(ConnectionEstablishedEvent event) {
-        System.out.println("Login fired");
         event.getConnection().getChannel().addHandlerAfter(Key.key("floodgate:handler"), new ChannelPacketHandler() {
             @Override
             public ChannelPacketRead read(ChannelPacketRead read) {
